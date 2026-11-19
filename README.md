@@ -1,70 +1,125 @@
-# 💫 About Me:
 
-🚀 **Team Lead & Senior Software Engineer** with **7+ years of experience**, I specialize in **full-stack development**, **AWS cloud architectures**, and **system integrations** — from **serverless** to **on-premises**.
+# Hi there, I'm Emiliano 👋
 
----
+**Senior Software Engineer | Computer Engineering | Cloud & AI**
 
-### 💻 About Me
+I'm a Senior Software Engineer with 8+ years of professional experience in software engineering, cloud-native architectures, full-stack development, system integrations, and technical leadership.
 
-- 🔭 Currently leading and developing scalable web applications and cloud-native solutions. My specialty is designing and implementing serverless architectures on AWS and modernizing legacy systems.
-- ⚙️ Skilled in designing **serverless architectures** with **AWS Lambda**, **API Gateway**, **DynamoDB**, **S3**, **SQS**, **Step Functions**, and deploying with **SAM** or **CDK**.
-- 🧰 Experienced in **DevOps workflows** — setting up CI/CD pipelines, containerized development environments, and automating deployments.
-- 🌐 Strong background in **Full Stack Development** using:
-  - **Backend:** Laravel, Node.js  
-  - **Frontend:** Vue.js, React  
-  - **Infrastructure:** AWS (Serverless & VPC-based), Docker, GitHub Actions  
+I am passionate about solving complex problems, designing scalable software solutions, and leveraging technology to create meaningful impact.
 
----
+Currently working as a Senior Software Engineer with Microsoft's AI for Good Lab, focusing on cloud-based solutions and artificial intelligence.
 
-### 🤝 Integrations & API Experience
+## 🚀 Professional Focus
 
-I’m passionate about **connecting systems and services** — working with **OAuth2**, **authentication & authorization**, **RESTful APIs**, and **event-driven** patterns.
+- **Software Engineering:** Designing scalable, maintainable, and reliable applications.
+- **Cloud Computing:** Cloud-native and serverless architectures, distributed systems, and Infrastructure as Code.
+- **Artificial Intelligence:** AI agents, LLM-powered applications, and AI-driven software development workflows.
+- **System Integration:** APIs, event-driven architectures, authentication, and interoperability.
+- **DevOps:** CI/CD pipelines, automated testing, deployment automation, and developer experience.
+- **Technical Leadership:** Engineering best practices, mentoring, architectural decisions, and team development.
 
-I’ve successfully built complex integrations across:
-- Salesforce ↔️ AWS (Serverless, SQS, Lambda)
-- Salesforce ↔️ Third-party services (DocuSign, ThoughtSpot)
-- Custom web apps ↔️ APIs and microservices
+## 💻 Tech Stack
 
----
+### Programming Languages
 
-### 🎓 Academic Background
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
-🎓 **B.Sc. in Computer Engineering** (in progress) — Facultad de Ingeniería, Uruguay  
-📚 Took advanced elective courses in:
-- 🤖 Robotics (ROS2, Coverage Path Planning)
-- 🗺️ GIS (Geographical Information Systems)
-- 🔗 Blockchain (Ethereum, Web3, Solidity)
-- 🔐 Security (OWASP, exploitation & prevention)
-- 🧠 Machine Learning (currently enrolled)
-- ⚡ HPC & Parallel Computing (MPI, OpenMP, CUDA)
-- 🧩 Logic & Functional Programming (Prolog, Haskell)
+### Cloud & Infrastructure
 
-🧠 **Final Project / Thesis:**  
-Developing a **robotics coverage path planning (CPP)** solution for crop and orchard fields using **ROS2**, leveraging **RGB aerial imagery** from **drones and satellites**.
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
----
+### Frameworks & Runtime Environments
 
-### 🌱 Outside of Work
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-- 🎮 Passionate about music and video games.  
-- 🎬 Film enthusiast — check out my [Letterboxd](https://letterboxd.com/elemisabe)  
-- ☕ Always down to discuss tech, film, or travel ideas  
+### Databases
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logoColor=white)
+![Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logoColor=white)
 
+### AI & Developer Tools
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emi-gonzalez-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emigonzalezmartinez@gmail.com) 
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### Scientific Computing & Robotics
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=emigonzalez&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=emigonzalez&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emigonzalez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=emigonzalez&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🎓 Education & Research
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Computer Engineering**  
+Universidad de la República (Udelar)  
+Facultad de Ingeniería, Uruguay | 2016–2026
+
+Academic interests:
+
+- Artificial Intelligence and Machine Learning
+- Robotics and Autonomous Systems
+- High-Performance and Parallel Computing (MPI, OpenMP, CUDA)
+- Geographic Information Systems (GIS)
+- Information Security
+- Blockchain and Distributed Systems
+- Logic and Functional Programming
+
+### Research & Final Degree Project
+
+**Graph-Based Coverage Path Planning for Ground Robots in Row-Structured Agricultural Inspection**
+
+Developed a graph-based coverage path planning solution for autonomous agricultural inspection using aerial imagery, computer vision, computational geometry, graph algorithms, and robotics.
+
+Presented at **IEEE URUCON 2026**.
+
+## 🏅 Professional Certifications
+
+- AWS Certified AI Practitioner
+- Claude Certified Architect
+- Salesforce Certified AI Specialist
+- Salesforce Certified JavaScript Developer I
+
+## 🌱 Beyond Engineering
+
+Outside of work, I enjoy music, playing guitar, video games, films, and traveling.
+
+You can find my film activity on [Letterboxd](https://letterboxd.com/elemisabe).
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emigonzalez&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://linkedin.com/in/emi-gonzalez-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emigonzalezmartinez@gmail.com)
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/elemisabe)
